@@ -16,8 +16,11 @@
 
 [diff 1996-2004](https://github.com/bes-internal/contitution/compare/1996..2004#diff-d6a512a278299c1055e4cc65a700a17c)
 
-[diff 2004-2022](https://github.com/bes-internal/contitution/compare/2004..2022#diff-d6a512a278299c1055e4cc65a700a17c)
+[diff 2004-2022rc1](https://github.com/bes-internal/belarusconstitution/compare/2004..2022_rc1#diff-2af73a9ad8678a70b52b24)
 
+[diff 2004-2022rc2](https://github.com/bes-internal/belarusconstitution/compare/2004..2022_rc2#diff-2af73a9ad8678a70b52b24)
+
+[diff 2022rc1-2022rc2](https://github.com/bes-internal/belarusconstitution/compare/2022_rc1..2022_rc2)
 
 Состав:
 
